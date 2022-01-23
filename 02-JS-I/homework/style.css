@@ -1,0 +1,24 @@
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: lightgreen;
+    padding: 50px;
+    border: 1px solid lightseagreen;
+}
+
+.divClass {
+    
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+h1 {
+    color: lightsalmon;
+}
+
+img {
+    max-width: 400px;
+}
